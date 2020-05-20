@@ -1,8 +1,7 @@
 hicksey-makes.github.io
 
 
-## Hello World
-
+## Sam-H-Resume
 This is my resume in html form!
 
 My github userpage is at:
